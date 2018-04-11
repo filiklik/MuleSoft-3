@@ -1,0 +1,17 @@
+Important Stuff:-
+
+Error Codes
+
+Choice Router
+Domain Project
+Mule Requester
+VM endpoint
+
+Mule Credentials Vault(Encryption/Decryption)
+Exception Handling
+
+
+
+links:- https://support.mulesoft.com/s/article/Access-properties-from-Java-code
+	https://dzone.com/articles/introduction-to-dataweave
+	https://blogs.mulesoft.com/dev/anypoint-studio-dev/getting-started-with-dataweave-part-1/ 
